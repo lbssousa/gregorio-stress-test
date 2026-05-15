@@ -1,15 +1,16 @@
-name: Salve Regina;
-office-part: Antiphona;
-mode: 1;
-book: The Liber Usualis, 1961, p. 276 & Liber antiphonarius, 1960, p. 68;
-transcriber: Andrew Hinkley;
+name:Veni Creator Spiritus;
+office-part:Hymnus;
+mode:8;
+book:Liber Hymnarius;
+transcriber:Synthetic stress adaptation;
 %%
-(c4) SAl(hhgh)ve,(d.) *(,) Re(hg)gí(fe/fgf)na,(e[ll:1]d..) (;) ma(c)ter(d) mi(dc)se(d)ri(ef)cór(g)di(dec)æ:(d.) (::)
-Vi(hhgh)ta,(d.) (,) dul(hg)cé(fe/fgf)do,(e[ll:1]d..) (;) et(c) spes(d) nos(ef)tra,(g.) (,) sal(dec)ve.(d.) (::)
-Ad(df) te(h') cla(g)má(gfh)mus,(e.) (;) éx(g)su(f)les,(edg.) (,) fí(c)li(d)i(edg) He(fe)væ.(d.) (::)
-Ad(df) te(h') su(j)spi(g)rá(gfg)mus,(h.) (;) ge(d)mén(fg~)tes(g') et(d) flen(fvED)tes(c.) (;) in(d) hac(dcf) la(gh)cri(g)má(fe)rum(g) val(fe~)le.(dcd.) (::)
-E(ffg)ia(f) er(gh~)go,(h'_) (,) Ad(j)vo(g)cá(hvGF)ta(d') nos(g)tra,(h.) (;) il(k)los(k) tu(ji/jk)os(h'_) (,) mi(k)se(j')ri(h)cór(gfh')des(g) ó(de)cu(f)los(evDC.) (;) ad(cd) nos(f) con(gf~)vér(dcd)te.(d.) (::)
-Et(d) Je(a)sum,(c_[ll:1]d) (,) be(d)ne(de)díc(e[ll:1]dd)tum(c') fruc(g)tum(f) ven(e[ll:1]d~)tris(g) tu(fe)i,(dcd.) (;) no(ixdh'!iv)bis(h.) (,) post(hvGF) hoc(g') ex(d)sí(f)li(fe)um(dc__) (,) os(efe)tén(d.)de.(d.) (::)
-O(hhg/h!iwj) cle(ivHG)mens:(h.) (::)
-O(g.h!iwjji) pi(hg)a:(gh..) (::)
-O(hd__fvEDC'd) (,) (de!fg) dul(gf~)cis(g_h) *() Vir(d)go(c') Ma(d)rí(dgff)a.(e[ll:1]d..) (::)
+(c4) VEni(g) Cre(h)'a(g)tor(f) Sp'i(g)ri(h)tus,(g) men(f)tes(g) tu(h)'o(g)rum(f) v'i(g)si(h)ta.(g.) (::)
+Im(f)ple(g) su(h)per(g)na(f) gr'a(g)ti(h)a,(g) qu'ae(f) tu(g) cre(h)'a(g)sti(f) pec(g)to(h)ra.(g.) (::)
+Qui(g) d'i(h)ce(g)ris(f) Pa(g)r'a(h)cli(g)tus,(f) Al(g)t'is(h)si(g)mi(f) do(g)num(h) De(g)i.(f.) (::)
+Fons(g) v'i(h)vus,(g) i(f)gnis,(g) c'a(h)ri(g)tas,(f) et(g) spi(h)ri(g)t'a(f)lis(g) unc(h)ti(g)o.(f.) (::)
+Ac(g)cen(h)de(g) lu(f)men(g) s'en(h)si(g)bus,(f) in(g)fun(h)de(g) a(f)m'o(g)rem(h) c'or(g)di(f)bus.(f.) (::)
+In(g)fir(h)ma(g) no(f)stri(g) c'or(h)po(g)ris,(f) vir(g)tu(h)te(g) fir(f)mans(g) per(h)p'e(g)ti.(f.) (::)
+Hos(g)tem(h) re(g)pel(f)las(g) l'on(h)gi(g)us,(f) pa(g)cem(h)que(g) do(f)nes(g) pr'o(h)ti(g)nus.(f.) (::)
+Per(g) te(h) sci(g)'a(f)mus(g) da(h) Pa(g)trem,(f) no(g)sc'a(h)mus(g) at(f)que(g) F'i(h)li(g)um.(f.) (::)
+De(g)o(h) Pa(g)tri(f) sit(g) gl'o(h)ri(g)a,(f) et(g) F'i(h)li(g)o(f) qui(g) a(h) mor(g)tu(f)is.(f.) (::)
+Cum(g) Sanc(h)to(g) si(f)mul(g) Pa(h)r'a(g)cli(f)to,(g) in(h) s'ae(g)cu(f)la(g) s'ae(h)cu(g)lo(f)rum.(f.) A(g)men.(f.) (::)

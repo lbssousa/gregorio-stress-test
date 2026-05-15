@@ -1,10 +1,16 @@
-name:Sanctus IX;
-office-part:Kyriale;
-mode:5;
-book:Graduale Romanum, 1961, p. 34* & The Liber Usualis, 1961, p. 42 & Graduale Romanum, 1974, p. 743 & Chants of the Church, 1956, p. 25 & Gregorian Missal, 1990, p. 108 & Liber cantualis, 1983, p. 47;
-transcriber:Andrew Hinkley;
+name:Lauda Sion;
+office-part:Sequentia;
+mode:6;
+book:Graduale Romanum, 1961, p. 366*;
+transcriber:Synthetic stress adaptation;
 %%
-(c3) SAnc(hhffd/efe)tus,(d.) *(,) Sanc(ffe)tus,(d.) (,) Sanc(df/hhkvJI'j)tus(ih..) (,) Dó(k')mi(j)nus(ij) De(kvJI)us(h.) Sá(gxfdgvFE'f)ba(e[ll:1]d)oth.(d.) (:)
-Ple(f)ni(fe) sunt(d') cæ(e)li(f') et(h) ter(ijiih~)ra(h.) (,) gló(k)ri(ji)a(hf) tu(gxgvFE)a.(e[ll:1]d..) (;) Ho(f)sán(hih)na(hh) in(f') ex(d)cél(efe)sis.(e[ll:1]d..) (:)
-Be(kvJI'j)ne(h)díc(ij)tus(j.) qui(ij) ve(kvJI)nit(h.) (,) in(k) nó(jvIHij)mi(ih)ne(h.) Dó(gxfdgvFE'f)mi(e[ll:1]d)ni.(d.) (:)
-Ho(gxde/fd//ef!gvFEfv.df)sán(hhi)na(h.) (,) in(k) ex(jvIH)cél(fvED.fhf/ded)sis.(d.) (::)
+(c4) LAu(f)da(g) Si(h)on(g) Sal(f)va(e)t'o(f)rem,(g) lau(h)da(g) du(f)cem(e) et(f) pas(g)t'o(h)rem.(g.) (::)
+Quan(g)tum(h) po(g)tes(f) tan(e)tum(f) au(g)de:(h) qui(g)a(f) ma(e)ior(f) om(g)ni(h) lau(g)de.(f.) (::)
+Lau(f)dis(g) the(h)ma(g) spe(f)ci(e)a(f)lis,(g) pa(h)nis(g) vi(f)vus(e) et(f) vi(g)t'a(h)lis.(g.) (::)
+In(g) su(h)pr'e(g)m'ae(f) noc(e)tis(f) coe(g)na,(h) re(g)cum(f)ben(e)tis(f) cum(g) fra(h)tri(g)bus.(f.) (::)
+Do(f)gma(g) da(h)tur(g) chris(f)ti(e)'a(f)nis,(g) quod(h) in(g) car(f)nem(e) tran(f)sit(g) pa(h)nis.(g.) (::)
+Quod(g) non(h) ca(g)pis(f) quod(e) non(f) vi(g)des,(h) a(g)ni(f)mo(e) fir(f)mat(g) fi(h)des(g) pr'ae(f)ter(e) re(f)rum(g) or(h)di(g)nem.(f.) (::)
+Su(f)b di(g)ver(h)sis(g) spe(f)ci(e)e(f)bus,(g) si(h)gnis(g) tan(f)tum(e) et(f) non(g) re(h)bus.(g.) (::)
+Ca(g)ro(h) ci(g)bus,(f) san(e)guis(f) po(g)tus:(h) ma(g)net(f) ta(e)men(f) Chri(g)stus(h) to(g)tus.(f.) (::)
+Su(f)men(g)tes(h) u(g)num,(f) su(e)mi(f)tur(g) u(h)nus,(g) nec(f) sum(e)ptus(f) con(g)su(h)mi(g)tur.(f.) (::)
+Ec(f)ce(g) pa(h)nis(g) an(f)ge(e)lo(f)rum,(g) fac(h)tus(g) ci(f)bus(e) vi(f)a(g)t'o(h)rum.(g.) (::)
