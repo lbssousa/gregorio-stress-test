@@ -3,7 +3,7 @@
 *.fls
 *.gaux
 *.glog
-*.gltex
+*.gtex
 *.log
 *.out
 *.pdf
