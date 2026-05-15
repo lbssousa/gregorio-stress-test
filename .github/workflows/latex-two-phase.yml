@@ -1,0 +1,25 @@
+name: Build LaTeX (Two Phase)
+
+on:
+  push:
+    branches:
+      - main
+      - master
+      - copilot/**
+  pull_request:
+
+jobs:
+  build-two-phase:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Compile LaTeX document in two phases
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: main.tex
+          latexmk_use_lualatex: true
+          pre_compile: make phase1
